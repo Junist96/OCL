@@ -1,0 +1,11 @@
+chbmit/
+*.pyc
+*.ipynb
+*.npy
+*.pkl
+
+input/patient_summary.csv
+
+svmlight/
+
+logs/
